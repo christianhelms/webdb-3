@@ -1,5 +1,7 @@
+// Libraries
 const express = require('express');
 
+// Files
 const SchemeRouter = require('./schemes/scheme-router.js');
 
 const server = express();
